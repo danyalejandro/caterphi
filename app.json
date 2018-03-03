@@ -1,0 +1,6 @@
+{
+  "name": "Caterphi",
+  "description": "Bare caterpillar",
+  "keywords": ["insect", "caterpillar", "animal"],
+  "image": "heroku/nodejs"
+}

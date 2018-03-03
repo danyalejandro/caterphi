@@ -1,0 +1,25 @@
+{
+  "name": "caterphi",
+  "version": "0.0.1",
+  "description": "A simple caterpillar.",
+  "engines": {
+    "node": "8.9.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.2"
+  },
+  "devDependencies": {
+    "request": "^2.81.0",
+    "tape": "^4.7.0"
+  },
+  "keywords": [
+    "insect",
+    "caterpillar",
+    "animal"
+  ]
+}
